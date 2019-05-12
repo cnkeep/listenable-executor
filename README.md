@@ -142,5 +142,5 @@ ListenableExecutorService executor = new ListenableThreadPoolExecutor(
 
 ## 其他问题
 
-* 因个人水平有限，代码难免存在bug, 大家可以在issues中提出，亦可emailTo:zhangleili924@gmail.com, 我们及时处理。 
+* 因个人水平有限，代码难免存在bug, 大家可以在issues中提出，亦可emailTo:zhangleili924@gmail.com, 我会及时处理。 
 * 本项目属于开源代码，大家可任意下载修改。
